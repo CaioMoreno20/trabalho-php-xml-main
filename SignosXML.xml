@@ -1,0 +1,89 @@
+<?xml version="1.0"?>
+<!DOCTYPE xml>
+<signos>
+
+    <signo>
+        <dataInicio>21/03</dataInicio>
+        <dataFim>20/04</dataFim>
+        <signoNome>Áries</signoNome>
+        <descricao>Arianos e Arianas possuem uma personalidade muito marcante de assertividade e impetuosidade. Costumam ser muito corajosos, impulsivos, audaciosos, dinâmicos e obstinados! São pessoas super empolgadas e de muita iniciativa. Portadores de um grande senso de liderança.</descricao>
+    </signo>
+
+    <signo>
+        <dataInicio>21/04</dataInicio>
+        <dataFim>20/05</dataFim>
+        <signoNome>Touro</signoNome>
+        <descricao>Quem tem o signo de Touro em posição marcante no mapa astral de nascimento, possui uma personalidade calma, carinhosa e tranquila. Devido a isto, as pessoas desse signo não costumam se irritar com facilidade, porém quando se estressam a raiva é intensa.</descricao>
+    </signo>
+
+    <signo>
+        <dataInicio>21/05</dataInicio>
+        <dataFim>20/06</dataFim>
+        <signoNome>Gêmeos</signoNome>
+        <descricao>O signo de gêmeos é o terceiro signo do zodíaco e o segundo do elemento ar. Regidos por Mercúrio, os geminianos são comunicativos, versáteis e sociáveis. Gostam de criar linhas de raciocínio e especulações na tentativa de entender diversos assuntos.</descricao>
+    </signo>
+
+    <signo>
+        <dataInicio>21/06</dataInicio>
+        <dataFim>22/07</dataFim>
+        <signoNome>Câncer</signoNome>
+        <descricao>São pessoas mais tímidas e discretas que não se põem muito em evidencia, sempre muito reservadas. Regidos pela Lua, por tanto estão intimamente ligados a ela e suas fases, oscilam da gentileza, amorosidade e carinho para irritação, falta de paciência e vitimismo.</descricao>
+    </signo>
+
+    <signo>
+        <dataInicio>23/07</dataInicio>
+        <dataFim>22/08</dataFim>
+        <signoNome>Leão</signoNome>
+        <descricao>Regidos pelo Sol, os nativos de Leão fazem bom uso desse brilho e se sentem os verdadeiros reis do zodíaco. “O leonino é um ser muito confiante, segue em busca do que acredita e gosta de ser valorizado e apreciado pelas pessoas. Costuma ser alegre, brincalhão, exuberante e criativo.</descricao>
+    </signo>
+
+    <signo>
+        <dataInicio>23/08</dataInicio>
+        <dataFim>22/09</dataFim>
+        <signoNome>Virgem</signoNome>
+        <descricao>As pessoas do signo de Virgem costumam ser inteligentes, detalhistas, metódicas, organizadas, discretas e perfeccionistas. “Trabalham para ter segurança e estabilidade financeira. Como são regidas por Mercúrio, estão sempre em busca de conhecimento.</descricao>
+    </signo>
+
+    <signo>
+        <dataInicio>23/09</dataInicio>
+        <dataFim>22/10</dataFim>
+        <signoNome>Libra</signoNome>
+        <descricao> A personalidade de Libra é mais voltada às ideias e ao racional. Afinal, é um dos signos de Ar, o que significa que pensam bastante e não gostam de se sentir limitados. Inclusive, a inteligência se manifesta nos librianos até mesmo por refletirem antes de emitir uma opinião.</descricao>
+    </signo>
+
+    <signo>
+        <dataInicio>23/10</dataInicio>
+        <dataFim>21/11</dataFim>
+        <signoNome>Escorpião</signoNome>
+        <descricao>Pessoas deste signo costumam viver como seres mortais, sempre interessadas em aprofundar as verdades que envolvem esse mistério. Escorpião é um signo muito perspicaz e, às vezes, sente no ar o que está acontecendo e o que vai acontecer.</descricao>
+    </signo>
+
+
+    <signo>
+        <dataInicio>22/11</dataInicio>
+        <dataFim>21/12</dataFim>
+        <signoNome>Sagitário</signoNome>
+        <descricao>Positividade, bom humor e espontaneidade são características marcantes da personalidade sagitariana. Quem é de Sagitário costuma acreditar que tudo acontece por um motivo e que tudo tem solução. Encaram a vida com autoconfiança.</descricao>
+    </signo>
+
+    <signo>
+        <dataInicio>22/12</dataInicio>
+        <dataFim>20/01</dataFim>
+        <signoNome>Capricórnio</signoNome>
+        <descricao>Os nativos de capricórnio são pessoas cautelosas, responsáveis, escrupulosas tradicionais, práticas, trabalhadoras, econômicas, firmes, dogmáticas e seguras. Amam a lei e a ordem. Como são do elemento Terra, todas as coisas precisam ser palpáveis.</descricao>
+    </signo>
+
+    <signo>
+        <dataInicio>21/01</dataInicio>
+        <dataFim>19/02</dataFim>
+        <signoNome>Aquário</signoNome>
+        <descricao>A busca por inovação e independência são fortes características do signo de Aquário. Com criatividade sempre em alta, pessoas com Sol ou Ascendente em Aquário costumam ir direto ao ponto. Questionar as coisas e ser até radical também combina com aquarianas e aquarianos.</descricao>
+    </signo>
+
+    <signo>
+        <dataInicio>19/02</dataInicio>
+        <dataFim>20/03</dataFim>
+        <signoNome>Peixes</signoNome>
+        <descricao>São pessoas sensíveis, sonhadoras, empáticas, pacientes, calmas, intuitivas, românticas, generosas, místicas e amáveis. “Captam toda a energia do ambiente como esponjas, o que os leva a sentir muitas coisas que não são suas.</descricao>
+    </signo>
+</signos>

@@ -1,0 +1,23 @@
+
+body{
+    background-image: url('https://www.fatosdesconhecidos.com.br/wp-content/uploads/2016/11/1-484.jpg');
+    background-attachment: fixed;
+    background-size: 100%;
+}
+
+.max-w{
+    min-width: 550px;
+    max-width: 800px;
+}
+
+.btn{
+    background: rgb(0,19,26);
+    background: linear-gradient(90deg, rgba(0,19,26,1) 0%, rgb(1, 29, 37) 56%, rgb(1, 37, 39) 100%);
+    color: #fff;
+}
+
+.btn:hover{
+    background: rgb(0,36,50);
+    background: linear-gradient(90deg, rgba(0,36,50,1) 0%, rgba(2,89,117,1) 56%, rgba(5,119,126,1) 100%);
+    color: #fff;
+}
